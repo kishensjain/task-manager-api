@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+task_manager.sql
+.env
